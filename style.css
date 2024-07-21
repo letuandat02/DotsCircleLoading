@@ -1,3 +1,19 @@
+.title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: transparent;
+  background-image: linear-gradient(
+    to right,
+    #de7373,
+    #b7df6b,
+    #6edbc2,
+    #df7edc,
+    #c57979
+  );
+  background-clip: text;
+}
+
 .loading {
   width: 60px;
   height: 60px;
